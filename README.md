@@ -39,7 +39,7 @@ The lower and higher layers serve as input for your objective function, it looks
 # Implementation
 See: https://github.com/MrNothing/General-AI-Modules
 
-# Morality
+# Ethics
 As stated before, consciousness can exist without an objective function. Using a conscious system for its predictive abilities show no relationship with any form of suffering. However, designing a system with consciousness that is controlled by an objective function is a system that might be very close to ourselves. This leads to a natural empathy for this system especially if its creator choses to make it look like us.
 Our empathy system is relatively easy to trick, the same feeling can be generated from systems with no consciousness.
 # Conclusion
