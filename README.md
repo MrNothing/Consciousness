@@ -19,7 +19,7 @@ What is ‘itself’? Here we define individuality as a part of the simulated sp
 - Unlike intelligence, consciousness can exist without an objective function. There can be intelligence and consciousness on any support regardless of it being alive. Computers are more intelligent than humans at specific tasks but are not conscious.
 
 # Feelings
-The brain and to an extent the human body is fully connected, therefore most of its systems have the ability to affect each other in very (very) complex ways. Naturally, consciousness is also affected by our body’s chemical balance. A lack of serotonin (cite some research)  can alter the consciousness’ ability to properly categorize the past experiences or predict an outcome, most of its experiences will be viewed in a negative way by the person.
+The brain and to an extent the human body is fully connected, therefore most of its systems have the ability to affect each other in very (very) complex ways. Naturally, consciousness is also affected by our body’s chemical balance. A lack of serotonin (TODO: cite some research)  can alter the consciousness’ ability to properly categorize the past experiences or predict an outcome, most of its experiences will be viewed in a negative way by the person.
 Love on the other hand, has the opposite effect, we can often be blind to obvious situations because the chemical balance in our brain is so disrupted by our need to procreate.
 What we call feelings could be our consciousness’ representation of our objective function. A way for our system to attach labels or ‘meaning’ to our past experiences. The brain also uses emotions to optimize data, strong emotions can remain longer in memory while most every day events are not stored.
 # An algorithmic model
