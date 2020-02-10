@@ -24,9 +24,9 @@ Love on the other hand, has the opposite effect, we can often be blind to obviou
 What we call feelings could be our consciousness’ representation of our objective function. A way for our system to attach labels or ‘meaning’ to our past experiences. The brain also uses emotions to optimize data, strong emotions can remain longer in memory while most every day events are not stored.
 # An algorithmic model
 Examples of reinforcement learning based probabilistic models have shown some ability to display human like behaviours, but they require astronomical amounts of data and computing power on simplified systems. Why is that? Searching the entire spectrum of the universe for a solution is bound to have a very high cost in computing power.
-Convolutions have shown that injecting hard coded logic to reduce the dimensionality of the problem can lead to tremendous results. (cite yann lecun)
+Convolutions have shown that injecting hard coded logic to reduce the dimensionality of the problem can lead to tremendous results. (TODO: cite yann lecun)
 Nature itself used a similar approach on our brains: our cortex, is a ‘simpler’ system that includes basic pattern matching systems (fear, hunger, motor skills etc…).
-Then we have the neocortex, a more complex system that includes our ability to reason. (cite book: thousand brains of intelligence)
+Then we have the neocortex, a more complex system that includes our ability to reason. (TODO cite book: thousand brains of intelligence)
 - A core made of hardcoded rules.
 An amount of handmade rules and biases about our world will be injected to our system. They will then be fine-tuned using data from our world.
 - A perception system.
@@ -38,14 +38,6 @@ The lower and higher layers serve as input for your objective function, it looks
 
 # Implementation
 See: https://github.com/MrNothing/General-AI-Modules
-
-Representing data
-The outside world can be represented as a function of space and time that returns a set of properties.
-
-At a fixed time T0, a simple version of this is the voxel representation of data:
-The red cube has the following coordinates: x = {-2, -2, -2, T0}
-and
-f(-2, -2, -2, T0) = {red}
 
 # Morality
 As stated before, consciousness can exist without an objective function. Using a conscious system for its predictive abilities show no relationship with any form of suffering. However, designing a system with consciousness that is controlled by an objective function is a system that might be very close to ourselves. This leads to a natural empathy for this system especially if its creator choses to make it look like us.
