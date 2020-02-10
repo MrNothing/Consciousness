@@ -12,7 +12,7 @@ What is ‘itself’? Here we define individuality as a part of the simulated sp
 
 - Consciousness can be measured, typically not being able to assess the consequences of one’s action is deemed as being “unconscious”. On the other hand, a superior form of consciousness is a system that understands and predicts outcomes with impressive accuracy.
 
-- Consciousness is recursive, it can represent itself representing itself etc… This is probably the most confusing part about consciousness.
+- Consciousness is recursive, it can represent itself representing itself etc… This is limited to the system's computing power.
 
 - Consciousness is used by our brain to accurately predict outcomes and drastically increase our survival rate.
 
