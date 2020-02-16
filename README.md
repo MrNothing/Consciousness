@@ -26,13 +26,15 @@ What we call feelings could be our consciousness’ representation of our object
 Examples of reinforcement learning based probabilistic models have shown some ability to display human like behaviours, but they require astronomical amounts of data and computing power on simplified systems. Why is that? Searching the entire spectrum of the universe for a solution is bound to have a very high cost in computing power.
 Convolutions have shown that injecting hard coded logic to reduce the dimensionality of the problem can lead to tremendous results. 
 Nature itself used a similar approach on our brains: our cortex, is a ‘simpler’ system that includes basic pattern matching systems (fear, hunger, motor skills etc…).
+
+Here are a few components of a conscious system:
 Then we have the neocortex, a more complex system that includes our ability to reason.
 - A core made of hardcoded rules.
 An amount of handmade rules and biases about our world will be injected to our system. They will then be fine-tuned using data from our world.
 - A perception system.
 Raw data need to be turned into an input for the core. This actually is the hardest part.
 - A high level layer. 
-This part can be optional, this allows your system to learn and improve with experience. With this step, your system gets the ability to create models.
+This part can be optional, this allows your system to learn and improve with experience. With this step, our system gets the ability to create models.
 - An objective function.
 The lower and higher layers serve as input for your objective function, it looks for patterns in the raw input and the simulator system’s predictions outputs to classify them.
 
