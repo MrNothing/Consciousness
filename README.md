@@ -19,14 +19,14 @@ What is ‘itself’? Here we define individuality as a part of the simulated sp
 - Unlike intelligence, consciousness can exist without an objective function. There can be intelligence and consciousness on any support regardless of it being alive. Computers are more intelligent than humans at specific tasks but are not conscious.
 
 # Feelings
-The brain and to an extent the human body is fully connected, therefore most of its systems have the ability to affect each other in very (very) complex ways. Naturally, consciousness is also affected by our body’s chemical balance. A lack of serotonin (TODO: cite some research)  can alter the consciousness’ ability to properly categorize the past experiences or predict an outcome, most of its experiences will be viewed in a negative way by the person.
+The brain and to an extent the human body is fully connected, therefore most of its systems have the ability to affect each other in very (very) complex ways. Naturally, consciousness is also affected by our body’s chemical balance. A lack of serotonin can alter the consciousness’ ability to properly categorize the past experiences or predict an outcome, most of its experiences will be viewed in a negative way by the person.
 Love on the other hand, has the opposite effect, we can often be blind to obvious situations because the chemical balance in our brain is so disrupted by our need to procreate.
 What we call feelings could be our consciousness’ representation of our objective function. A way for our system to attach labels or ‘meaning’ to our past experiences. The brain also uses emotions to optimize data, strong emotions can remain longer in memory while most every day events are not stored.
 # An algorithmic model
 Examples of reinforcement learning based probabilistic models have shown some ability to display human like behaviours, but they require astronomical amounts of data and computing power on simplified systems. Why is that? Searching the entire spectrum of the universe for a solution is bound to have a very high cost in computing power.
-Convolutions have shown that injecting hard coded logic to reduce the dimensionality of the problem can lead to tremendous results. (TODO: cite yann lecun)
+Convolutions have shown that injecting hard coded logic to reduce the dimensionality of the problem can lead to tremendous results. 
 Nature itself used a similar approach on our brains: our cortex, is a ‘simpler’ system that includes basic pattern matching systems (fear, hunger, motor skills etc…).
-Then we have the neocortex, a more complex system that includes our ability to reason. (TODO cite book: thousand brains of intelligence)
+Then we have the neocortex, a more complex system that includes our ability to reason.
 - A core made of hardcoded rules.
 An amount of handmade rules and biases about our world will be injected to our system. They will then be fine-tuned using data from our world.
 - A perception system.
