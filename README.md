@@ -1,4 +1,4 @@
-# Introduction
+# Abstract
 This document attempts to define consciousness. It also suggests a model for consciousness and explores ways to implement it.
 It also tackles the morality aspects of creating a conscious system.
 # Defining consciousness
@@ -42,5 +42,3 @@ See: https://github.com/MrNothing/General-AI-Modules
 # Ethics
 As stated before, consciousness can exist without an objective function. Using a conscious system for its predictive abilities show no relationship with any form of suffering. However, designing a system with consciousness that is controlled by an objective function is a system that might be very close to ourselves. This leads to a natural empathy for this system especially if its creator choses to make it look like us.
 Our empathy system is relatively easy to trick, the same feeling can be generated from systems with no consciousness.
-# Conclusion
-TODO: Is this implementation possible with our computing power?
