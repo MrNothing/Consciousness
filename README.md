@@ -1,6 +1,6 @@
 # Abstract
 This document attempts to define consciousness. It also suggests a model for consciousness and explores ways to implement it.
-It also tackles the morality aspects of creating a conscious system.
+
 # Defining consciousness
 Here is my attempt at defining consciousness:
 
@@ -41,5 +41,3 @@ The lower and higher layers serve as input for your objective function, it looks
 # Implementation
 See: https://github.com/MrNothing/General-AI-Modules
 
-# Ethics
-TODO
