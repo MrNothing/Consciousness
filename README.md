@@ -16,7 +16,7 @@ What is ‘itself’? Here we define individuality as a part of the simulated sp
 
 - Consciousness is used by our brain to accurately predict outcomes and drastically increase our survival rate.
 
-- Unlike intelligence, consciousness can exist without an objective function. There can be intelligence and consciousness on any support regardless of it being alive. Computers are more intelligent than humans at specific tasks but are not conscious.
+- Consciousness cannot be split apart from objective, otherwise the simulated universe would have no meaning. Since the simulation is a simplified model, It has to represent it relative to its objective, furthermore, the objective is a part of the self, a thing that remains somewhat constant over time and space.
 
 # Feelings
 The brain and to an extent the human body is fully connected, therefore most of its systems have the ability to affect each other in very (very) complex ways. Naturally, consciousness is also affected by our body’s chemical balance. A lack of serotonin can alter the consciousness’ ability to properly categorize the past experiences or predict an outcome, most of its experiences will be viewed in a negative way by the person.
@@ -42,5 +42,4 @@ The lower and higher layers serve as input for your objective function, it looks
 See: https://github.com/MrNothing/General-AI-Modules
 
 # Ethics
-As stated before, consciousness can exist without an objective function. Using a conscious system for its predictive abilities show no relationship with any form of suffering. However, designing a system with consciousness that is controlled by an objective function is a system that might be very close to ourselves. This leads to a natural empathy for this system especially if its creator choses to make it look like us.
-Our empathy system is relatively easy to trick, the same feeling can be generated from systems with no consciousness.
+TODO
